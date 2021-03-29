@@ -1,0 +1,4 @@
+com/playmuscial/api/entity/ReservationSeatId$ReservationSeatIdBuilder.class
+com/playmuscial/api/entity/Seat$SeatBuilder.class
+com/playmuscial/api/entity/ReservationSeat$ReservationSeatBuilder.class
+com/playmuscial/api/entity/Reservation$ReservationBuilder.class
